@@ -5,6 +5,7 @@ Software-Engineering-Course-S2024
 This repository contains the implementation of a Matching Engine with Java programming language. The Matching Engine facilitates the processing of buy and sell orders in a stock exchange market.
 
 - ## [CA3](https://github.com/MobinaMhr/TinyME/blob/main/project-descriptions/SE1S03-A3-Description.pdf). Unit Test 
+Developed comprehensive unit tests to verify the correctness and reliability of core matching engine functionalities.
 
 - ## [CA4](https://github.com/MobinaMhr/TinyME/blob/main/project-descriptions/SE1S03-A4-Description.pdf). Minimum Execution Quantity 
 Implemented Minimum Execution Quantity (MEQ) functionality to ensure orders meet minimum quantity requirements upon entry.
